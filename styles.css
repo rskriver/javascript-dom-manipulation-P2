@@ -105,6 +105,10 @@ p {
     all: unset;
 }
 
+p:hover {
+  animation-name: bounce;
+}
+
 #modal {
     background-color: #fff;
     position: absolute;
@@ -123,6 +127,7 @@ p {
     animation-name: animatemodal;
     animation-duration: .4s;
 }
+
 
 #close-btn {
     font-size: 3rem;
