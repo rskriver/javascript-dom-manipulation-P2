@@ -118,6 +118,7 @@ p:hover {
     width: 200px;
     height: 100px;
     padding: 10px 20px;
+    border: 6px solid #aaf;
     border-radius: 5px;
     font-size: 1.5rem;
     display: flex;
